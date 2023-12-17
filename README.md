@@ -1,2 +1,2 @@
-# tugas_p10web
+# tugas_JSweb
 tugas pemrograman berbasis web
